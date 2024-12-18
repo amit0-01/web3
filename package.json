@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@metamask/providers": "^18.3.0",
-    "@metamask/sdk-react": "^0.31.2",
+    "@metamask/sdk-react": "^0.31.3",
     "@trustwallet/web3-provider": "^3.0.2",
     "@walletconnect/web3-provider": "^1.8.0",
     "cra-template": "1.2.0",
